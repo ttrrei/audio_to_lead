@@ -1,0 +1,21 @@
+INFO: Uploading audio file: conversation2.wav...
+INFO: File uploaded successfully. Cloud Resource Name: files/9d4o4w6jx4zt
+INFO: Waiting for cloud audio processing to complete...
+SUCCESS: Audio processing complete (State: ACTIVE).
+INFO: Requesting high-accuracy transcription and speaker diarization...
+
+--- [Transcript Preview] ---
+Speaker 1: Hello, thank you for calling. How can I help secure your family's future today?
+Speaker 2: Hi. We just had a baby and I need to buy a comprehensive critical illness policy for my husband immediately. Can we issue a $500,000 policy today?
+Speaker 1: Yes, absolutely. We can run the instant approval process online right now. I am generating your secure application and payment link.
+Speaker 2: Perfect. I have my credit card ready. Please send the link to my mobile immediately so I can complete the transaction and secure the coverage.
+Speaker 1: The secure link has been sent to your mobile. Once the payment is complete, the policy will be active within 10 minutes. Thank you for choosing us.
+----------------------------
+
+INFO: Requesting structured sales lead metadata extraction...
+SUCCESS: Final Structured Sales Lead JSON Object:
+{
+    "intent": "Strong",
+    "primary_focus": "Safety/Risk",
+    "target_product": "comprehensive critical illness policy"
+}
