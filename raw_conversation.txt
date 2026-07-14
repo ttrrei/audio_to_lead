@@ -1,0 +1,26 @@
+Conversation 1:
+
+Puck:
+	Hello, welcome to the Asset Management Center. How may I assist you today?
+Aoede:
+	Hi, I'm just calling to check on something. I noticed a product called 'Steady Returns No. 1' on your mobile app, and I was wondering what the typical annualized yield is?
+Puck:
+	Certainly. The historical annualized return for this product ranges from 2.8% to 3.2%, with a lock-up period of 30 days. It's highly suitable for clients looking for flexibility and low risk.
+Aoede:
+	Oh, 30 days isn't long at all. Alright, I see. I'm just looking around for now and will think about it later. Thank you!
+Puck:
+	No problem at all. Feel free to compare your options anytime. Have a wonderful day, goodbye!
+	
+
+Conversation 2:
+	
+Puck: 
+	Hello, thank you for calling. How can I help secure your family's future today?
+Aoede: 
+	Hi. We just had a baby and I need to buy a comprehensive critical illness policy for my husband immediately. Can we issue a $500,000 policy today?
+Puck: 
+	Yes, absolutely. We can run the instant approval process online right now. I am generating your secure application and payment link.
+Aoede: 
+	Perfect. I have my credit card ready. Please send the link to my mobile immediately so I can complete the transaction and secure the coverage.
+Puck: 
+	The secure link has been sent to your mobile. Once the payment is complete, the policy will be active within 10 minutes. Thank you for choosing us.
