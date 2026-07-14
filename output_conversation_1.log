@@ -1,0 +1,21 @@
+INFO: Uploading audio file: conversation1.wav...
+INFO: File uploaded successfully. Cloud Resource Name: files/kk10eo1bwj4y
+INFO: Waiting for cloud audio processing to complete...
+SUCCESS: Audio processing complete (State: ACTIVE).
+INFO: Requesting high-accuracy transcription and speaker diarization...
+
+--- [Transcript Preview] ---
+Speaker 1: Hello. Welcome to the Asset Management Center. How may I assist you today?
+Speaker 2: Hi. I'm just calling to check on something. I noticed a product called steady returns number one on your mobile app, and I was wondering what the typical annualized yield is.
+Speaker 1: Certainly. The historical annualized return for this product ranges from 2.8% to 3.2% with a lock-up period of 30 days. It's highly suitable for clients looking for flexibility and low risk.
+Speaker 2: Oh, 30 days isn't long at all. All right, I see. I'm just looking around for now and we'll think about it later. Thank you.
+Speaker 1: No problem at all. Feel free to compare your options anytime. Have a wonderful day. Goodbye.
+----------------------------
+
+INFO: Requesting structured sales lead metadata extraction...
+SUCCESS: Final Structured Sales Lead JSON Object:
+{
+    "intent": "Weak",
+    "primary_focus": "Yield/Return",
+    "target_product": "steady returns number one"
+}
