@@ -13,7 +13,8 @@ if not API_KEY or API_KEY.startswith("AQ**"):
     print("WARNING: No valid GEMINI_API_KEY environment variable detected. Falling back to embedded key.")
 
 client = genai.Client(api_key=API_KEY)
-AUDIO_FILE = "conversation1.wav"
+DEFAULT_AUDIO_FILE = "conversation1.wav"
+AUDIO_FILE = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_AUDIO_FILE
 
 # =====================================================================
 # 2. Audio Upload & Status Lifecycle Guard
