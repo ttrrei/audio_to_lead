@@ -87,10 +87,10 @@ Or pass it directly in the code (not recommended for production).
 python transcribe.py
 ```
 
-The script currently processes `conversation1.wav` (hardcoded). To process a different file, modify line 24:
+The script currently processes `conversation1.wav` (hardcoded). To process a different file, modify the `AUDIO_FILE` variable near the top of the script:
 
 ```python
-AUDIO_FILE = "your_audio_file.wav"
+DEFAULT_AUDIO_FILE = "conversation1.wav"
 ```
 
 ### Sample Output
